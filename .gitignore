@@ -178,5 +178,4 @@ cython_debug/
 **/._.DS_Store
 
 # Custom files
-*.csv
 */.__MACOSX/
